@@ -22,8 +22,9 @@
 
 ---
 
- 💻 Programming
-
+ 💻 Tech Stack
+ 
+ Programming
 
 ![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -156,13 +157,12 @@ and approval processes**.
 
 # 🌐 Connect With Me
 
-📧 **Email:** [arulkumarant18@gmail.com](mailto:arulkumarant18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arul-kumaran-t-058805334/)
 
-💼 **LinkedIn:** [Arul Kumaran T](https://www.linkedin.com/in/arul-kumaran-t-058805334/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:arulkumarant18@gmail.com)
 
-🌐 **Portfolio:** Coming Soon
 
 ---
 
-### ⭐ Learn • Build • Innovate
+ ⭐ Learn • Build • Innovate ⭐
 
