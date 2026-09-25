@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Arul Kumaran
+👋 Hi, I'm Arul Kumaran
 
-### 🚀 AI & Data Science Engineer
+🚀 AI & Data Science Engineer
 
 > Building intelligent solutions with **Artificial Intelligence, Data Science, IoT and modern software technologies.**
 
@@ -29,11 +29,6 @@
 
 Python ,java ,c, html
 
-\
-
-
-
-\
 
 ### 📊 Data Science
 
@@ -60,23 +55,27 @@ Python ,java ,c, html
 
 ---
 
-# 🚀 Featured Projects
+🚀 Featured Projects
 
-## 🌊 Adaptive Edge-Driven Intelligent Aquatic Revitalization System
+🌊 Adaptive Edge-Driven Intelligent Aquatic Revitalization System
 
-An autonomous water-monitoring system designed to detect **water-quality problems in real time**, including low dissolved oxygen, abnormal pH levels, and algae growth.
+An autonomous water-monitoring system designed to detect **water-quality problems in real time**,
+including low dissolved oxygen, abnormal pH levels, and algae growth.
 
-The system combines **IoT sensors, intelligent analysis and autonomous navigation** to monitor aquatic environments efficiently.
+The system combines **IoT sensors, intelligent analysis and autonomous navigation** to monitor
+aquatic environments efficiently.
 
 **Technologies:** `ESP32` `Python` `AI/ML` `IoT` `Computer Vision` `Sensors` `Edge AI`
 
 ---
 
-## 🌦️ Intelligence Weather Insight System
+ 🌦️ Intelligence Weather Insight System
 
-An intelligent weather-analysis system designed to collect and analyze **weather and environmental data** and convert it into useful insights.
+An intelligent weather-analysis system designed to collect and analyze **weather and environmental
+data** and convert it into useful insights.
 
-The project focuses on **data processing, analysis and visualization** to understand weather patterns and present information clearly.
+The project focuses on **data processing, analysis and visualization** to understand weather patterns 
+and present information clearly.
 
 **Technologies:** `Python` `Pandas` `NumPy` `Data Analytics` `Data Visualization`
 
@@ -84,9 +83,11 @@ The project focuses on **data processing, analysis and visualization** to unders
 
 ## 🎓 Internship Portal for Colleges
 
-A **Java-based Internship Management Portal** developed to help colleges automate and streamline the internship management process.
+A **Java-based Internship Management Portal** developed to help colleges automate and streamline the 
+internship management process.
 
-The system provides a centralized platform for managing **student internship records, applications and approval processes**.
+The system provides a centralized platform for managing **student internship records, applications 
+and approval processes**.
 
 **Technologies:** `Java` `SQL` `Database` `OOP` `Software Development`
 
@@ -114,7 +115,8 @@ The system provides a centralized platform for managing **student internship rec
 
 # 🎯 Career Goal
 
-> To build **intelligent, autonomous and practical technology solutions** that solve real-world problems using AI, Data Analytics, Edge AI and modern software development.
+> To build **intelligent, autonomous and practical technology solutions** that solve real-world problems using AI,
+>  Data Analytics, Edge AI and modern software development.
 
 ---
 
