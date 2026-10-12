@@ -1,7 +1,14 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1020,50:142D4E,100:0B1020&text=ARUL%20KUMARAN&fontColor=FFFFFF&fontSize=48&fontAlignY=45&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descSize=16&descAlignY=70&descColor=60A5FA" width="100%" alt="Arul Kumaran profile banner"/>
+<h1>ARUL KUMARAN</h1>
+
+<h3>AI & Data Science Engineer</h3>
+
+<p>
+Building intelligent solutions with Artificial Intelligence
+</p>
+
+</div>
 
 <br/>
 
