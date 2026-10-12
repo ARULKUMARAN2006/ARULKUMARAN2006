@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 HELLO ARUL KUMARAN</h1>
+<h1>👋 Hi ARUL KUMARAN</h1>
 
 <h3>AI & Data Science Engineer</h3>
 </div>
@@ -8,7 +8,7 @@
 <br/>
 
 <a href="https://github.com/ARULKUMARAN2006">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science" alt="Professional introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?center =JetBrains+Mono&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science" alt="Professional introduction"/>
 </a>
 
 <br/><br/>
@@ -26,23 +26,9 @@
 🌊 Building **Adaptive Edge-Driven Intelligent Aquatic Revitalization System**
 
 💡 Passionate about solving **real-world problems through technology**
-
-<a href="https://github.com/ARULKUMARAN2006">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/arul-kumaran-t-058805334/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:arulkumarant18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-
 ---
 
  💻 Tech Stack
- 
- Programming
 
 ![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -160,10 +146,15 @@ and approval processes**.
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/arul-kumaran-t-058805334/)
-
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:arulkumarant18@gmail.com)
-
+<a href="https://github.com/ARULKUMARAN2006">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/arul-kumaran-t-058805334/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:arulkumarant18@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ---
 
