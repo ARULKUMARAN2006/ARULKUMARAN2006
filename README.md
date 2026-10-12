@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://github.com/ARULKUMARAN2006">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+%7C+Data+Analytics;Computer+Vision+%7C+Edge+AI;Building+Technology+for+Real-World+Problems" alt="Professional introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science" alt="Professional introduction"/>
 </a>
 
 <br/><br/>
