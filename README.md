@@ -1,13 +1,8 @@
 <div align="center">
 
-<h1>ARUL KUMARAN</h1>
+<h1>👋 HELLO ARUL KUMARAN</h1>
 
 <h3>AI & Data Science Engineer</h3>
-
-<p>
-Building intelligent solutions with Artificial Intelligence
-</p>
-
 </div>
 
 <br/>
@@ -18,24 +13,7 @@ Building intelligent solutions with Artificial Intelligence
 
 <br/><br/>
 
-<a href="https://github.com/ARULKUMARAN2006">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/arul-kumaran-t-058805334/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:arulkumarant18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
 </div>
-👋 Hi, I'm Arul Kumaran
-
-🚀 AI & Data Science Engineer
-
-> Building intelligent solutions with **Artificial Intelligence, Data Science, IoT and modern software technologies.**
-
----
 
 ## 🧑‍💻 About Me
 
@@ -49,7 +27,16 @@ Building intelligent solutions with Artificial Intelligence
 
 💡 Passionate about solving **real-world problems through technology**
 
-📫 Reach me : [arulkumarant18@gmail.com](mailto:arulkumarant18@gmail.com)
+<a href="https://github.com/ARULKUMARAN2006">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/arul-kumaran-t-058805334/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:arulkumarant18@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 
 ---
 
@@ -67,26 +54,11 @@ Building intelligent solutions with Artificial Intelligence
 ### 📊 Data Science
 
 
-
-\
-
-\
-
 ### 📈 Data Visualization
-
-
-\
 
 ### 🌐 IoT & Embedded
 
-\
-
 ### 🛠️ Tools
-
-
-
-\
-
 ---
 
 🚀 Featured Projects
