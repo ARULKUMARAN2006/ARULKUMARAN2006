@@ -1,4 +1,17 @@
+
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ARUL KUMARAN&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ARUL KUMARAN&theme=github_dark" height="200" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JARUL KUMARAN2006&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username= ARUL KUMARAN &theme=github_dark" height="200" />
+</div>
+
+---<div align="center">
 
 <h1>👋 Hi ARUL KUMARAN</h1>
 
