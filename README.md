@@ -1,3 +1,27 @@
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1020,50:142D4E,100:0B1020&text=ARUL%20KUMARAN&fontColor=FFFFFF&fontSize=48&fontAlignY=45&desc=AI%20%26%20DATA%20SCIENCE%20ENGINEER&descSize=16&descAlignY=70&descColor=60A5FA" width="100%" alt="Arul Kumaran profile banner"/>
+
+<br/>
+
+<a href="https://github.com/ARULKUMARAN2006">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+%7C+Data+Analytics;Computer+Vision+%7C+Edge+AI;Building+Technology+for+Real-World+Problems" alt="Professional introduction"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ARULKUMARAN2006">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/arul-kumaran-t-058805334/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:arulkumarant18@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
 👋 Hi, I'm Arul Kumaran
 
 🚀 AI & Data Science Engineer
