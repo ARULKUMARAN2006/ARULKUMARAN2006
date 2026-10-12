@@ -127,49 +127,84 @@ and approval processes**.
 
 # 📊 GitHub Statistics
 
-<p align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<!-- ============== GITHUB STATISTICS ============== -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<h2 align="center">📊 GitHub Statistics</h2>
 
-</p>
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ARULKUMARAN2006&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARULKUMARAN2006&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Most used programming languages"
+  />
+
+</div>
 
 ---
 
-# 📈 GitHub Activity
+<!-- ============== CONTRIBUTION ACTIVITY ============== -->
 
-<p align="center">
+<h2 align="center">📈 GitHub Contribution Activity</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<div align="center">
 
-</p>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ARULKUMARAN2006&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
-
-</p>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+<!-- ============== GITHUB ACHIEVEMENTS ============== -->
 
-<a href="https://github.com/ARULKUMARAN2006">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/arul-kumaran-t-058805334/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:arulkumarant18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<h2 align="center">🏆 GitHub Achievements</h2>
 
----
+<div align="center">
 
- ⭐ Learn • Build • Innovate ⭐
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ARULKUMARAN2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
+    width="100%"
+    alt="GitHub trophies"
+  />
+
+</div>
+
+<h2 align="center">
+  
+  🌐 Let's Connect</h2>
+
+<div align="center">
+
+  <a href="https://github.com/ARULKUMARAN2006">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/arul-kumaran-t-058805334/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:arulkumarant18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  <h3>⭐ Learn • Build • Innovate ⭐</h3>
+
+</div>
+
+
+
 
