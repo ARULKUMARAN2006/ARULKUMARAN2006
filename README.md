@@ -1,16 +1,14 @@
 
 
 
-<h1>👋 Hi ARUL KUMARAN</h1>
+   <h1>👋 Hi ARUL KUMARAN</h1>
 
-<h3>AI & Data Science Engineer</h3>
+<h3>Artificial Intelligence & Data Science Engineer</h3>
 </div>
 
 <br/>
 
-<a href="https://github.com/ARULKUMARAN2006">
-  <img src="https://readme-typing-svg.demolab.com?front =JetBrains+Mono&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science" alt="Professional introduction"/>
-</a>
+
 
 <br/><br/>
 
@@ -164,7 +162,7 @@ and approval processes**.
   <img
     src="https://github-profile-trophy.vercel.app/?username=ARULKUMARAN2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
     width="100%"
-    alt="GitHub trophies"
+ 
   />
 
 </div>
