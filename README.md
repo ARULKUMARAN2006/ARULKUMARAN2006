@@ -8,8 +8,6 @@
 
 <br/>
 
-<br/><br/>
-
 </div>
 
 ## 🧑‍💻 About Me
