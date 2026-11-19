@@ -155,14 +155,6 @@ and approval processes**.
 
 <div align="center">
 
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ARULKUMARAN2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
-    width="100%"
- 
-  />
-
-</div>
-
 <h2 align="center">
   
   🌐 Let's Connect</h2>
